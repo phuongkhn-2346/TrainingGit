@@ -1,2 +1,2 @@
 - branch issue 1
-- branch issue2
+- branch issue 2
